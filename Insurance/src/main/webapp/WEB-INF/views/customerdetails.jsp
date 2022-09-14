@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="pink">
 <div align="center">
-         <h1> Customer registered successfully!!!</h1>
+       <h1> Customer registered successfully!!!</h1>
 </div>
        
 </body>
